@@ -1,6 +1,6 @@
 # EdisonUi
 
-![build](https://github.com/paulStr/edison-ui/workflows/build/badge.svg)
+![build](https://github.com/paulStr/edison-ui/workflows/build/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/4bd47f48-03f8-441a-8162-e38ec2c1c5a4/deploy-status)](https://app.netlify.com/sites/dev-edison/deploys)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
